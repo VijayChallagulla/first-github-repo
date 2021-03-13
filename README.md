@@ -2,10 +2,6 @@
 
 README file edited
 
-<<<<<<< HEAD
-one more edit remote
-=======
-This is modified locally
+This line modified during conflict stage.
 
-ha ha.
->>>>>>> 646e40e (modified redme.md locally)
+new line added locally again.
