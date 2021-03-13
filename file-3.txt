@@ -1,1 +1,5 @@
+Line replace in feature-3
+
 file3 in remote repo
+
+This line added in feature -3
